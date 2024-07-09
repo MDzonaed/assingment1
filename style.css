@@ -97,6 +97,10 @@ main{
     margin: 10px 0;
 }
 
+.video{
+    padding-top: 20px;
+}
+
 .flex-style button{
     color: rgb(13, 19, 33);
     font-size: 20px;
@@ -238,3 +242,21 @@ footer{
     padding: 20px;
 }
 
+
+.inspiration{
+    text-align: center;
+}
+
+.inspiration h3{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    margin: 10px 0;
+}
+
+.inspiration p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px 0;
+}
