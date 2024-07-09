@@ -42,6 +42,7 @@ header{
     font-weight: 600;
     padding: 20px;
     margin: 10px 0;
+    cursor: pointer;
 }
 
 main{
@@ -171,4 +172,54 @@ main{
     background: rgba(255, 223, 0, 0.05);
     padding: 40px;
     border-radius: 10px;
+}
+
+.support-info{
+    background-image: url(images/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0 0 100px 0;
+    border-radius: 10px;
+}
+
+
+.support-info h2{
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 50px;
+    margin: 10px 0;
+}
+
+
+.support-info p{
+    color: rgb(212, 202, 202);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0 100px 15px 100px;
+    margin: 10px 0;
+}
+
+
+.text{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.input-text{
+    padding: 10px 100px 10px 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+}
+
+.input-submit{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
 }
