@@ -103,3 +103,72 @@ main{
     padding: 10px;
     margin: 10px 0;
 }
+
+.target-info{
+    text-align: center;
+    margin: 100px 0;
+}
+
+.target-info h2{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    margin: 10px 0;
+}
+
+
+.target-info p{
+    margin: 10px 0;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.target-skill{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    gap: 20px;
+}
+
+.target-skill h2{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    margin: 10px 0;
+}
+
+.target-skill p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+
+.target-skill button{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-bottom: 2px solid;
+    cursor: pointer;
+}
+
+.skill1{
+    background: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.skill2{
+    background: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.skill3{
+    background: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+    border-radius: 10px;
+}
