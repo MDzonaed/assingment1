@@ -43,3 +43,63 @@ header{
     padding: 20px;
     margin: 10px 0;
 }
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.about{
+    margin-top: 100px;
+}
+
+.about{
+    text-align: center;
+}
+
+.about-info h2{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    margin: 10px 0;
+}
+
+.about-info p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.flex-1{
+    margin: 100px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-style{
+    text-align: justify;
+}
+
+.flex-style h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+
+.flex-style p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.flex-style button{
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+    margin: 10px 0;
+}
